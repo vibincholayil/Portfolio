@@ -1,5 +1,4 @@
-## vibincholayil-github.io
-Cloud Architecture User Experience Designer
+##Cloud Architecture User Experience Designer
 
 ### Certification
 - AWS Solutions Architect Associate (2024 to 2027).
