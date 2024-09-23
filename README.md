@@ -2,7 +2,7 @@
 Cloud Architecture 
 User Experience Designer
 
-EDUCATION AND CERTIFICATION
+### EDUCATION AND CERTIFICATION
 AWS Solutions Architect Associate (2024 to 2027).
 - Certification in AWS (Amazon) - Netcom training, Birmingham, UK (2024).
 - Professional Diploma in UX Design - UX Design Institute, Dublin, Ireland (2021).
